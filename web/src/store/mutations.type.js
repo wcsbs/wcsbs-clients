@@ -1,0 +1,15 @@
+export const PURGE_AUTH = "logOut";
+export const SET_AUTH = "setAuth";
+export const SET_ERROR = "setError";
+export const FETCH_USERS_END = "setUsers";
+export const FETCH_USERS_START = "setLoadingUsers";
+export const FILTER_USERS_IN_LIST = "filterUsersInList";
+export const UPDATE_USER_IN_LIST = "updateUserInList";
+export const SET_USER = "setUser";
+export const FETCH_DASHBOARDS_END = "setDashboards";
+export const FETCH_DASHBOARDS_START = "setLoadingDashboards";
+export const FETCH_SESSIONS_START = "setLoadingSessions";
+export const FETCH_SESSIONS_END = "setSessions";
+export const FILTER_SESSIONS_IN_LIST = "filterSessionsInList";
+export const FETCH_PRACTICE_COUNTS_START = "setLoadingPracticeCounts";
+export const FETCH_PRACTICE_COUNTS_END = "setPracticeCounts";

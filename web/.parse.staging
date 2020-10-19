@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "wcsbs-staging"
+    },
+    "wcsbs-staging": {
+      "applicationId": "d5cGjIzjxBmhDfKknJSrr5utsqtjr1PUUL9oOvQO"
+    }
+  }
+}
